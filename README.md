@@ -10,7 +10,7 @@ Find the live preview of the page **[here](https://www.ableton.com/en/about/)**
 
 - Fork the repo
 - You can push changes to your own main branch
-- Subnut a pull request to have your changes merged
+- Submit a pull request to have your changes merged
 
 Please submit one pull request per section of the page you have coded. Pull any changes from the repo before starting to code out your next section to see what changes have already been made
 
